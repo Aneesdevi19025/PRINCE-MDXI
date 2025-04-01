@@ -9,7 +9,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here. Make sure it starts with prince-md-",
-      "value": "",
+      "value": "prince_md-3RFwHDpD#VehETMhFejjHS1MooT5s4OtDDcVZjWfUaYKTp7GD83g",
       "required": true
     },
     "PREFIX": {
